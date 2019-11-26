@@ -1,0 +1,42 @@
+[18-Sep-2017 21:09:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'softhar_fabrica2321'@'localhost' (using password: YES) in /home/softhar/public_html/projeto/fabricad/admin/class/conexao.php on line 16
+[18-Sep-2017 21:09:12 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/softhar/public_html/projeto/fabricad/admin/class/conexao.php on line 17
+[18-Sep-2017 21:09:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/softhar/public_html/projeto/fabricad/admin/class/conexao.php on line 27
+[18-Sep-2017 21:09:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/softhar/public_html/projeto/fabricad/admin/class/conexao.php on line 28
+[02-Jun-2018 15:39:30 Brazil/East] PHP Warning:  unlink(images/redatores/): Is a directory in /home/performarcom/public_html/blog/admin/redator_control.php on line 181
+[02-Jun-2018 17:19:08 Brazil/East] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3144001 bytes) in /home/performarcom/public_html/blog/admin/class/SimpleImage.php on line 782
+[02-Jun-2018 17:19:24 Brazil/East] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3144001 bytes) in /home/performarcom/public_html/blog/admin/class/SimpleImage.php on line 782
+[02-Jun-2018 17:20:18 Brazil/East] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3144001 bytes) in /home/performarcom/public_html/blog/admin/class/SimpleImage.php on line 782
+[30-Jun-2018 18:49:16 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/tags_control.php on line 21
+[30-Jun-2018 18:49:27 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/tags_control.php on line 21
+[30-Jun-2018 18:50:15 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/tags_control.php on line 21
+[30-Jun-2018 18:50:38 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/tags_control.php on line 21
+[30-Jun-2018 18:51:27 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:25:49 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/tags_control.php on line 21
+[01-Jul-2018 17:26:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/performarcom/public_html/blog/admin/logout.php:1) in /home/performarcom/public_html/blog/admin/class/conexao.php on line 2
+[01-Jul-2018 14:32:47 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:33:09 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:34:52 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:35:47 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:36:49 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:37:25 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:37:37 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:37:47 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 14:58:36 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:10:19 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:10:37 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:11:32 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:12:09 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:14:18 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:14:33 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:14:34 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:14:54 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:15:40 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:16:57 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:17:10 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:33:27 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[01-Jul-2018 15:36:30 Brazil/East] PHP Fatal error:  Call to undefined function iconv() in /home/performarcom/public_html/blog/admin/materia_control.php on line 25
+[26-Oct-2018 15:59:18 Brazil/East] PHP Warning:  unlink(images/redatores/): Is a directory in /home/mazukimcom/public_html/blog/admin/redator_control.php on line 181
+[29-Oct-2018 18:00:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mazukimcom/public_html/blog/admin/class/conexao.php on line 28
+[29-Oct-2018 18:00:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mazukimcom/public_html/blog/admin/class/conexao.php on line 28
+[29-Oct-2018 18:00:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mazukimcom/public_html/blog/admin/class/conexao.php on line 28
+[29-Oct-2018 18:00:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mazukimcom/public_html/blog/admin/class/conexao.php on line 28

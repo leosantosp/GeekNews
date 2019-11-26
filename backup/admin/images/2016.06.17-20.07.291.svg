@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="28px" viewBox="0 0 41 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>logo G1 Shadow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-3---Opção-A_Vertical-FIXED" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo-G1-Shadow" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <g id="logo-g1" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.000000)">
+                <path d="M9.9787853,16.2317695 L9.92719016,16.2317695 L9.92719016,17.0047109 L9.92719016,17.7776523 L16.7998603,17.7776523 L16.7998603,10.0482383 L26.7270504,10.0482383 L26.7270504,26.2800078 L17.1816753,26.2800078 L9.16356015,26.2800078 L9.16356015,26.1160159 C3.95807659,25.2112215 0,20.671006 0,15.2110856 L0,11.0689221 C0,5.3422859 4.34908099,0.631366843 9.92719016,0.0584862472 L9.92719016,17.0047109 L9.92719016,17.7776523 L11.4544502,17.7776523 L11.4544502,17.7229654 C10.7250165,17.547595 10.149204,16.967526 9.9787853,16.2317695 Z M11.4544502,6.2382181 L11.4544502,6.18353124 L9.92719016,6.18353124 L9.92719016,7.72941405 L9.9787853,7.72941405 C10.149204,6.9936575 10.7250165,6.41358849 11.4544502,6.2382181 Z M9.92719016,0 L24.4361604,0 L19.8543803,6.18353124 L9.92719016,6.18353124 L9.92719016,0 Z" id="Rectangle-18" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M29.0179405,6.2382181 L29.0179405,6.18353124 L30.5452005,6.18353124 L30.5452005,7.72941405 L30.4936053,7.72941405 C30.3231867,6.9936575 29.7473741,6.41358849 29.0179405,6.2382181 Z M30.5452005,6.18353124 L24.4361604,6.18353124 L29.0179405,0 L34.2715441,0 L37.7024127,0 C38.8104881,0 39.7087606,0.889354455 39.7087606,2.00118195 L39.7087606,6.34235237 L39.7087606,26.2800078 L30.5452005,26.2800078 L30.5452005,6.18353124 Z" id="Rectangle-20" filter="url(#filter-2)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

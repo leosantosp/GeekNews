@@ -1,0 +1,2 @@
+[30-Dec-2015 18:27:03 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/softhar/public_html/softhar/class/cliente.php on line 10
+[16-Jan-2016 14:47:45 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/softhar/public_html/softhar/class/cliente.php on line 10

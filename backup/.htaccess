@@ -1,0 +1,9 @@
+
+  Options +FollowSymLinks
+  RewriteEngine On
+  RewriteRule ^index\/?$ index.php [NC,L]
+  RewriteRule ^faleconosco\/?$ faleconosco.php [NC,L]
+  # RewriteRule ^buscar\/?$ buscar.php?to=$1&busca=$2 [NC,L]
+  RewriteRule ^categoria\/([a-z,0-9,_-]+)\/?([a-z,0-9,_-]+)\/?([a-z,0-9,_-]+)\/?$ categoria.php?id=$2&categoria=$1&to=$3#index [NC,L]
+  RewriteRule ^extra\/([a-z,0-9,_-]+)\/?([a-z,0-9,_-]+)\/?$ cat_artigo.php?id=$2&categoria=$1#index [NC,L]
+  RewriteRule ^artigo\/([a-z,0-9,_-]+)\/?([a-z,0-9,_-]+)\/?$ artigo.php?id=$1&$2#index [NC,L]

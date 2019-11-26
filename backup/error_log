@@ -1,0 +1,17 @@
+[18-Apr-2016 13:07:56 Brazil/East] PHP Fatal error:  Call to undefined method produto::produtos_novidade() in /home/entreelassexshop/public_html/index.php on line 42
+[21-Jun-2016 16:34:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/marcelomuzzicom/public_html/categoria.php on line 5
+[22-Jun-2016 12:34:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/marcelomuzzicom/public_html/index.php on line 117
+[22-Jun-2016 12:50:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected $end in /home/marcelomuzzicom/public_html/index.php on line 105
+[31-Mar-2017 05:28:12 America/Sao_Paulo] PHP Warning:  include_once(class/config.php): failed to open stream: No such file or directory in /home/softhar/public_html/blog/busca.php on line 2
+[31-Mar-2017 05:28:12 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'class/config.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/softhar/public_html/blog/busca.php on line 2
+[31-Mar-2017 05:28:12 America/Sao_Paulo] PHP Warning:  include_once(class/loader.php): failed to open stream: No such file or directory in /home/softhar/public_html/blog/busca.php on line 3
+[31-Mar-2017 05:28:12 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'class/loader.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/softhar/public_html/blog/busca.php on line 3
+[31-Mar-2017 05:28:12 America/Sao_Paulo] PHP Fatal error:  Class 'loader' not found in /home/softhar/public_html/blog/busca.php on line 4
+[31-Mar-2017 05:30:14 America/Sao_Paulo] PHP Warning:  include_once(class/config.php): failed to open stream: No such file or directory in /home/softhar/public_html/blog/busca.php on line 2
+[31-Mar-2017 05:30:14 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'class/config.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/softhar/public_html/blog/busca.php on line 2
+[31-Mar-2017 05:30:14 America/Sao_Paulo] PHP Warning:  include_once(class/loader.php): failed to open stream: No such file or directory in /home/softhar/public_html/blog/busca.php on line 3
+[31-Mar-2017 05:30:14 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'class/loader.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/softhar/public_html/blog/busca.php on line 3
+[31-Mar-2017 05:30:14 America/Sao_Paulo] PHP Fatal error:  Class 'loader' not found in /home/softhar/public_html/blog/busca.php on line 4
+[01-Aug-2018 22:43:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Aug-2018 22:43:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Aug-2018 22:43:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
